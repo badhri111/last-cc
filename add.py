@@ -1,3 +1,4 @@
 def add(a,b):
     return a+b
-print(add(5,3))
+print(add(1,2))
+#badhri's part
